@@ -136,6 +136,15 @@
         "maleficent"
       ],
       "id": "13"
+    },
+    {
+      "name": "Cool-Blooded Assassin",
+      "species": "Stingray",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "14"
     }
   ]
 }
